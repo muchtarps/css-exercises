@@ -1,0 +1,16 @@
+/* Commons values */
+button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+/* Styling button black */
+.btn-black {
+    background-color: black;
+    color: white;
+}
+
+/* Styling button yellow */
+.btn-yellow {
+    background-color: yellow;
+}
